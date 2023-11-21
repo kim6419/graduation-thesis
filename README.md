@@ -29,5 +29,4 @@
               
 
  <img src="https://github.com/kim6419/graduation-thesis/blob/master/%EC%B5%9C%EC%A2%85%20%EC%82%AC%EC%A7%84.jpg"  width="400" height="400">
-
-<img src="https://github.com/kim6419/graduation-thesis/blob/master/%EC%B5%9C%EC%A2%85%EC%99%84%EC%84%B1%202.jpg"  width="400" height="400">
+ <img src="https://github.com/kim6419/graduation-thesis/blob/master/%EC%B5%9C%EC%A2%85%EC%99%84%EC%84%B1%202.jpg"  width="400" height="400">
