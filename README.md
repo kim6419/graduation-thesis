@@ -1,18 +1,18 @@
 # graduation-thesis
 
 
-                                            드론의 비행 특성과 제어 시스템의 성능을 평가하는
-                                                            Drone Test bed
-                                              김태형1, 이승기1 백승표1, 이상민1, 장경원2*
-                                                   1원광대학교 전자융합공학과 학생,
-                                                   2원광대학교 전자융합공학과 교수 
+                                        드론의 비행 특성과 제어 시스템의 성능을 평가하는
+                                                         Drone Test bed
+                                            김태형1, 이승기1 백승표1, 이상민1, 장경원2*
+                                                  1원광대학교 전자융합공학과 학생,
+                                                  2원광대학교 전자융합공학과 교수 
        
-                       To evaluate the flight characteristics of drones and the performance of the control system 
-                                                           Drone Test bed 
+                      To evaluate the flight characteristics of drones and the performance of the control system 
+                                                          Drone Test bed 
 
-                         Taehyung Kim1, Seunggi Lee1, Seungpyo Baek1, Sangmin Lee1, Gyeongwon Jang2*
-                             1 Wonkwang University Electronic Convergence Engineering student,
-                      2Professor, Department of Electronic Convergence Engineering, Wonkwang University
+                             Taehyung Kim1, Seunggi Lee1, Seungpyo Baek1, Sangmin Lee1, Gyeongwon Jang2*
+                                 1 Wonkwang University Electronic Convergence Engineering student,
+                          2Professor, Department of Electronic Convergence Engineering, Wonkwang University
 
 
                                                                  요  약
